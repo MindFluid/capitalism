@@ -12,7 +12,7 @@ an economic and political system in which a country's trade and industry are con
 ![Taken Aback](https://i.imgur.com/qYc5pcN.jpg)
 
 # motivation
-I was taken aback by how many times capitalism was openly attacked at @JSConf EU, so I decided to do something about it. This CommonJS module is an attempt to illustrate why capitalism is _good for you_, actually. So here, please enjoy these open-source community-contributed **facts** about ~commu~capitalism and related political systems.
+I was also taken aback by how many times capitalism was openly attacked at @JSConf EU, so I decided to do something about it. This CommonJS module is an attempt to illustrate why capitalism is _good for you_, actually. So here, please enjoy these open-source community-contributed **facts** about ~commu~capitalism and related political systems.
 
 # contribution
 As long as you also agree that the privatization of trade and industry is, like, **totally** a great thing for *everyone* and definitely should not be questioned in any way by people who work directly with open-source software, then please feel free to submit a pull request with your own **facts** about capitalism!
