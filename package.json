@@ -4,7 +4,10 @@
   "description": "Here to alienate you but don't criticize me at a JS event OK wow calm down",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
+  },
+  "bin": {
+    "capitalism": "./index.js"
   },
   "keywords": [
     "capitalism",

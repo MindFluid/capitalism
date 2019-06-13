@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const everyoneLessSuccessfulThanMeIsLazy = require('path')
 const myWorkingDirectoryIsTheOnlyValidOneAnyway = process.cwd()
 
