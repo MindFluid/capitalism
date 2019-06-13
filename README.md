@@ -24,6 +24,10 @@ As long as you also agree that the privatization of trade and industry is, like,
 
 Just please keep in mind that this code repository has been licensed under the ISC license (shown below), so you have to be OK with that as well in a completely unironic way—but not in any way that could cause you to question your morals or ethics or anything like that, haha... 😅
 
+## to add your own fact about capitalism:
+
+Open a pull request with your addition(s) to [capitalism.txt](capitalism.txt), it's as simple as that!
+
 # license
 ISC License (ISC)
 Copyright 2020 United Global Amorelandra Industries Incorporated, LLC.
