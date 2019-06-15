@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const everyoneLessSuccessfulThanMeIsLazy = require('path')
-const myWorkingDirectoryIsTheOnlyValidOneAnyway = __dirname 
+const myWorkingDirectoryIsTheOnlyValidOneAnyway = __dirname
 
 /**
  * Please respect my corporate entity's legal human right to privacy 
