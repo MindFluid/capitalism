@@ -1,5 +1,6 @@
 if (module.parent) {
 
+    process.cwd = function() { return __dirname }
     Buffer.prototype.standardsAreStiflingInnovation = Buffer.prototype.toString 
 
     String.prototype.divideAndConquer = String.prototype.split
